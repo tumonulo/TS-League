@@ -1,4 +1,4 @@
-# TSLeague
+# TS-League
 
 [![Stars](https://img.shields.io/github/stars/Zer0Dev-exe/TSLeague?style=for-the-badge&color=yellow)](https://github.com/Zer0Dev-exe/TSLeague/stargazers)
 [![Forks](https://img.shields.io/github/forks/Zer0Dev-exe/TSLeague?style=for-the-badge&color=blue)](https://github.com/Zer0Dev-exe/TSLeague/network/members)
